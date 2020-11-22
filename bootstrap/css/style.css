@@ -152,3 +152,6 @@ form#newcomment textarea,
 form#newcomment input[type="text"] {
   margin-top: 0;
 }
+.spot h1{
+  font-weight: 900;
+}
